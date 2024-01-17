@@ -1,0 +1,6 @@
+std = "roblox"
+
+[lints]
+unused_variable = "allow"
+parenthese_conditions = "allow"
+empty_if = "allow"
